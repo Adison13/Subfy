@@ -189,4 +189,6 @@ Subfy/
 
 ---
 
-Desenvolvido como Projeto Integrador 2025
+Desenvolvido como Projeto
+Adison de Oliveira
+
