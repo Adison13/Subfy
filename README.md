@@ -188,6 +188,5 @@ Subfy/
 ```
 
 ---
-Projeto Desenvolvido por 
-Adison de Oliveira
+
 
